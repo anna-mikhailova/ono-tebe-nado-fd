@@ -1,1 +1,53 @@
-/* место для вашего кода */
+.body {
+  font-size: 18px;
+  color: black;
+  font-weight: 400;
+}
+
+.header {
+  padding: 50px;
+  background-color: white;
+  height: 293px;
+  display: grid;
+  
+  align-items: center;
+  font-size: 18px;
+}
+
+.menu__list {
+  display: flex;
+  justify-content: space-between;
+  width: 98px;
+}
+
+
+
+.logo__image-dark {
+  width: 148px;
+}
+
+.cover {
+  padding: 24px;
+  height: 757px;
+  background-image: url("/images/cover.jpg");
+
+}
+
+.lots {
+  padding: 24px;
+  background-color: blue;
+}
+
+.about {
+  padding: 24px;
+  background-color: coral;
+}
+
+.footer {
+  padding: 50px;
+  background-color: blueviolet;
+}
+
+.social-media-icon {
+  width: 48px;
+}

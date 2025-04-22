@@ -79,7 +79,7 @@
   height: 757px;
   background-image: url("/images/cover.jpg");
   background-size: cover;
-  background-position: bottom 0px right 100px;
+  background-position: bottom 0px left -130px;
   background-repeat: no-repeat;
   position: relative;
   z-index: 0;
